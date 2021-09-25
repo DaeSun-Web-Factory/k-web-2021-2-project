@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-aws-front-master"]=this["webpackJsonpreact-aws-front-master"]||[]).push([[21],{485:function(t,e,n){"use strict";n.r(e),n.d(e,"amplify_container",(function(){return i}));var r=n(19),i=function(){function t(t){Object(r.k)(this,t)}return t.prototype.render=function(){return Object(r.i)(r.b,null,Object(r.i)("slot",null))},t}();i.style="amplify-container{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=21.4be60ecf.chunk.js.map
